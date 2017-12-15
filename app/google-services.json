@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526300724294",
+    "firebase_url": "https://chat123-a2499.firebaseio.com",
+    "project_id": "chat123-a2499",
+    "storage_bucket": "chat123-a2499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526300724294:android:21d45ba93d002ee9",
+        "android_client_info": {
+          "package_name": "com.example.admin.chat123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526300724294-cvtqqo3rume1do9nctp4l6k493upv093.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJf5e1YbtJnwJdVyaqY1upkg3WBJV62U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
